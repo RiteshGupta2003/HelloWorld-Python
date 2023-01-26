@@ -1,0 +1,1 @@
+web gumicorn HelloWorldProject.wsgi:application --log-file-
